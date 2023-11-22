@@ -3,7 +3,7 @@
  SPDX-License-Identifier: Apache-2.0
 */
 
-package format_test //test
+package format_test
 
 import (
 	"net/url"
